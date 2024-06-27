@@ -8,6 +8,10 @@ body{
     height: 300px;
     border: 5px solid #000;
     margin-bottom: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 html{
    background-image: url("./imagenes/paisaje-ilustracion-atardecer-en-el-bosque-montanas_3840x2160_xtrafondos.com.jpg");
